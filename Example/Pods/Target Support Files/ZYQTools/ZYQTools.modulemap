@@ -1,0 +1,6 @@
+framework module ZYQTools {
+  umbrella header "ZYQTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

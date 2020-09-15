@@ -1,0 +1,16 @@
+PODS:
+  - ZYQTools (0.1.0)
+
+DEPENDENCIES:
+  - ZYQTools (from `../`)
+
+EXTERNAL SOURCES:
+  ZYQTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYQTools: cb9656dd7e0352b51a7ae5fc0d808810ceb3b7ab
+
+PODFILE CHECKSUM: c77823fdc96b8ba414cc109cd689d5a80cc3c656
+
+COCOAPODS: 1.9.3
